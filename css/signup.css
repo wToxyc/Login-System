@@ -1,0 +1,13 @@
+#register {
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 10px 15px;
+    border-radius: 2px;
+    transition-duration: 0.5s;
+}
+
+#register:hover {
+    padding-inline: 30px;
+    background: rgba(0, 0, 0, 0.75);
+    color: white;
+}
